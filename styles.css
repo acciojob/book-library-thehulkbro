@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 *{
-	background-color : #f8f8f8;	
+	background-color : black;	/*  #f8f8f8*/
 }
 .heading{
 	text-align : center;
@@ -10,12 +10,14 @@
 
 }
 .book-library {
-            background-color: #ffffff;
-            padding: 20px;
+	padding: 10px 0px;
+	background-color:red; /* #ffffff */
+	
         }
 .book {
-            width: 30%;
+           text-align:center;
             background-color: #ffffff;
+			
            
         }
 .title{
