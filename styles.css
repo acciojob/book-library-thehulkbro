@@ -1,18 +1,18 @@
 /*  your css code here. If applicable */
 *{
-	background-color : black;	/*  #f8f8f8*/
+	background-color :#f8f8f8;
 }
 .heading{
 	text-align : center;
 }
 .mainbox{
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+	
 
 }
 .book-library {
 	padding: 10px 0px;
-	background-color:red; /* #ffffff */
-	
+	background-color:#ffffff; /* #ffffff */
+	box-shadow: 0 0 5px rgba(0, 0, 0,0.5);
         }
 .book {
     text-align:center;
