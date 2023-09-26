@@ -15,10 +15,9 @@
 	
         }
 .book {
-           text-align:center;
-            background-color: #ffffff;
-			
-           
+    text-align:center;
+    background-color: #ffffff;
+	margin: 15px;
         }
 .title{
 	font-weight: bold;
