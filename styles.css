@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
 *{
-	background-color : #f8f8f8;
-	
+	background-color : #f8f8f8;	
+}
+.heading{
+	text-align : center;
 }
 .mainbox{
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
@@ -18,18 +20,20 @@
         }
 .title{
 	font-weight: bold;
-    position: left;
+    text-align : left;
         }
 .Author{
 	color: #777777;
+	text-align : left;
 }
 .price{
 	background-color: #2ecc71;
-	width : 100%
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            display: inline-block;
+	width : 100% ;
+	color: white;
+    adding: 5px 10px;
+    border-radius: 5px;
+	text-align : center;
+            
 }
         
 
