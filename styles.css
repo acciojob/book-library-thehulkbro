@@ -6,7 +6,7 @@
 	text-align : center;
 }
 .mainbox{
-	
+	background-color :#f8f8f8;
 
 }
 .book-library {
@@ -16,7 +16,7 @@
         }
 .book {
     text-align:center;
-    background-color: #ffffff;
+    background-color:#ffffff ;
 	margin: 15px;
         }
 .title{
@@ -28,7 +28,7 @@
 	text-align : left;
 }
 .price{
-	background-color: #2ecc71;
+	background-color:rgb(46, 204, 113);
 	width : 100% ;
 	color: white;
     adding: 5px 10px;
