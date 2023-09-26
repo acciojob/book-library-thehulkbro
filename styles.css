@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+*{
+	background-color : #f8f8f8;
+	
+}
+.mainbox{
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+
+}
+.book-library {
+            background-color: #ffffff;
+            padding: 20px;
+        }
+.book {
+            width: 30%;
+            background-color: #ffffff;
+           
+        }
+.title{
+	font-weight: bold;
+    position: left;
+        }
+.Author{
+	color: #777777;
+}
+.price{
+	background-color: #2ecc71;
+	width : 100%
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            display: inline-block;
+}
+        
+
+
+
+
