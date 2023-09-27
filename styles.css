@@ -14,7 +14,7 @@ body{
 .book-library {
 	padding: 10px 0px;
 	background-color:#ffffff;
-	/*box-shadow: 0 0 5px rgba(0, 0, 0,0.5);*/
+	box-shadow: 0 0 5px rgba(0, 0, 0,0.5);
         }
 .book {
     text-align:center;
@@ -25,6 +25,7 @@ body{
 .title{
 	font-weight: bold;
     text-align : left;
+	font-size:20px;
         }
 .Author{
 	color: #777777;
@@ -32,7 +33,7 @@ body{
 	font-size:12px;
 }
 .price{
-	background-color: #2ecc71;/*rgb(46, 204, 113)*/
+	background-color:rgb(46, 204, 113);
 	width : 100% ;
 	color: white;
     /*adding: 5px 10px;*/
