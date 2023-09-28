@@ -1,3 +1,4 @@
+/*
 
 
 
@@ -27,6 +28,51 @@
 	border-radius:5px;
 }
 
+body{
+	background-color:#f8f8f8;
+}
+.heading{
+	text-align : center;
+}
+/*
+.mainbox{
+	background-color :#f8f8f8;
+
+}
+*/
+.book-library {
+	padding: 10px 0px;
+	background-color:#ffffff;
+	box-shadow: 0 0 5px rgba(0, 0, 0,0.5);
+	
+        }
+.book {
+    text-align:center;
+    /*background-color:#ffffff ;*/
+	margin: 15px;
+	padding:20px;
+        }
+.title{
+	font-weight: bold;
+    text-align : left;
+	font-size:20px;
+        }
+.Author{
+	color: #777777;
+	text-align : left;
+	font-size:12px;
+}
+.price{
+	background-color:rgb(46, 204, 113);
+	width : 100% ;
+	color: white;
+    /*adding: 5px 10px;*/
+    border-radius: 5px;
+	text-align : center;
+            
+}
 
 
 
+
+*/
